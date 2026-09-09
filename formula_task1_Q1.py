@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # version from main
+=======
+# version from conflict-branch
+>>>>>>> conflict-branch
 #  Input an integer n, input n strings into a list. Create a dictionary where the key is an alphabet and the value is how many times it appears across all the strings. Not case sensitive. Eg for ["Formula", "Manipal"] the output looks like {'f':1, 'o':1, 'a':3 ...} 
 def count_characters():
     n = int(input("Enter the number of strings: "))
